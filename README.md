@@ -11,7 +11,6 @@ My primary interests are databases, networked systems, machine learning, compute
 ## Get In Touch ##
 
 - You can reach out to me via email at evantao96@gmail.com 
-- Connect with me via social sites: 
-	- [evan-tao.github.io](http://evan-tao.github.io/ "Named link title")
+- Connect with me via social sites:
 	- [linkedin.com/in/evan-tao](http://linkedin.com/in/evantao/ "Named link title")
 
