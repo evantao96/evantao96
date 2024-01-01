@@ -6,7 +6,9 @@ My primary interests are databases, networked systems, machine learning, compute
 
 ## What I'm Working On ##
 
-- 
+- Visualizing a large-scale network using the GraphStream Java library
+- Building a dynamic front-end for a model of face recognition 
+- Completing Advent of Code 2023
 
 ## Get In Touch ##
 
