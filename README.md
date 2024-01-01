@@ -4,7 +4,7 @@ I studied computer science at UPenn and currently teach AP Computer Science at a
 
 My primary interests are databases, networked systems, machine learning, computer vision and computer science education.
 
-## I'm Currently Working On ##
+## I'm Currently Working On... ##
 
 - Visualizing a large-scale network using the GraphStream Java library
 - Building a dynamic front-end for a model of face recognition 
