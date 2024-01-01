@@ -1,10 +1,10 @@
-# Hi, I'm Evan Tao #
+## Hi, I'm Evan Tao ##
 
 I studied computer science at UPenn and currently teach AP Computer Science at a small school in East Harlem, NYC. 
 
 My primary interests are databases, networked systems, machine learning, computer vision and computer science education.
 
-## What I'm Working On ##
+## What I'm Currently Working On ##
 
 - Visualizing a large-scale network using the GraphStream Java library
 - Building a dynamic front-end for a model of face recognition 
