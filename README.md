@@ -15,4 +15,5 @@ Computer science education is one of my interests, but I also enjoy working in d
 - You can reach out to me via email at evantao96@gmail.com 
 - Connect with me via social sites:
 	- [linkedin.com/in/evantao96](http://linkedin.com/in/evantao96/ "Named link title")
+- View my [resume](/resume.pdf/ "Named link title")
 
