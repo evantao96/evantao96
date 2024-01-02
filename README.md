@@ -2,7 +2,7 @@
 
 I studied computer science at UPenn and currently teach AP Computer Science at a small school in East Harlem, NYC. 
 
-Computer science education is one of my primary interests, but I also enjoy working in databases, networked systems, machine learning and computer vision.
+Computer science education is one of my interests, but I also enjoy working in databases, networked systems, machine learning and computer vision.
 
 ## I'm Currently Working On ##
 
