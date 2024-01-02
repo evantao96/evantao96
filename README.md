@@ -4,7 +4,7 @@ I studied computer science at UPenn and currently teach AP Computer Science at a
 
 Computer science education is one of my interests, but I also enjoy working with databases, networked systems, machine learning and computer vision.
 
-Currently, I am working on visualizing a large-scale network of NBA players, and building a dynamic front-end that demonstrates stages of computational face recognition.
+Currently, I am working on visualizing a large-scale network of NBA players, and building a front-end that demonstrates stages of computational face recognition.
 
 Aside from programming, I like to run. My next races are the Fred Lebow Half Marathon in NYC and the Seville Marathon in Spain. 
 
