@@ -6,8 +6,8 @@ Computer science education is one of my interests, but I also enjoy working in d
 
 ## I'm Currently Working On ##
 
-- Visualizing a large-scale network using the GraphStream Java library
-- Building a dynamic front-end for a model of face recognition 
+- Visualizing large-scale networks using the GraphStream Java library
+- Building a dynamic front-end that visualizes stages of face recognition in the brain
 - Completing Advent of Code 2023
 
 ## Get In Touch ##
