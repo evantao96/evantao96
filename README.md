@@ -1,6 +1,6 @@
 ## Hi, I am Evan Tao ##
 
-I studied computer science at UPenn and currently teach AP Computer Science at a small high school in East Harlem.
+I studied computer science at UPenn and currently teach AP Computer Science at a high school in NYC.
 
 Computer science education is one of my interests, but I also enjoy working with databases, networked systems, machine learning and computer vision. Currently, I am working on visualizing a large-scale network of NBA players.
 
