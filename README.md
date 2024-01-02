@@ -4,12 +4,9 @@ I studied computer science at UPenn and currently teach AP Computer Science at C
 
 Computer science education is one of my interests, but I also enjoy working with databases, networked systems, machine learning and computer vision.
 
+Currently, I am working on visualizing a network of NBA players using the GraphStream Java library, and building a front-end in Vue.js that demonstrates stages of computational face recognition. 
+
 Aside from programming, I like to run. My next races are the Fred Lebow Half Marathon in NYC and the Seville Marathon in Spain. 
-
-## What I Am Currently Working On ##
-
-- Visualizing a network of NBA players using the GraphStream Java library
-- Building a front-end in Vue.js that demonstrates stages of computational face recognition 
 
 ## Get In Touch ##
 
