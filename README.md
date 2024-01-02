@@ -4,6 +4,8 @@ I studied computer science at UPenn and currently teach AP Computer Science at C
 
 Computer science education is one of my interests, but I also enjoy working in databases, networked systems, machine learning and computer vision.
 
+Aside from programming, I like to run. My next races are the Fred Lebow Half Marathon in NYC and the Seville Marathon in Spain. 
+
 ## I'm Currently Working On ##
 
 - Visualizing large-scale networks using the GraphStream Java library
