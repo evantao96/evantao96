@@ -9,7 +9,7 @@ Aside from programming, I like to run. My next races are the Fred Lebow Half Mar
 ## Get In Touch ##
 
 - You can reach out to me via email at evantao96@gmail.com 
-- Connect with me at [linkedin.com/in/evantao96](http://linkedin.com/in/evantao96/ "Named link title")
-- Visit my personal website at [evantao96.github.io](http://evantao96.github.io] "Named link title")
+- Connect with me at [linkedin.com/in/evantao96](https://linkedin.com/in/evantao96/ "Named link title")
+- Visit my personal website at [evantao96.github.io](https://evantao96.github.io] "Named link title")
 - View my [resume](/resume.pdf/ "Named link title")
 
