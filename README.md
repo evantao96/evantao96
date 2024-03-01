@@ -1,10 +1,8 @@
 ## Hi, I am Evan Tao ##
 
-I studied computer science at UPenn and currently teach AP Computer Science at a high school in NYC.
+A software developer and educator dedicated to building innovative products from end-to-end. I have project expertise building web applications using Node.js, Amazon AWS and Ruby on Rails. I come from a strong engineering background. I graduated with a BS in computer science at UPenn.
 
-Computer science education is one of my interests, but I also enjoy working with databases, networked systems, machine learning and computer vision. Currently, I am working on visualizing a large-scale network of NBA players.
-
-Aside from programming, I like to run. My next races are the Fred Lebow Half Marathon in NYC and the Seville Marathon in Spain. 
+I hang my hat on being willing to put in the time and effort to produce quality work. Currently I work as an educator. I teach Java programming fundamentals to aspiring computer science majors.
 
 ## Get In Touch ##
 
