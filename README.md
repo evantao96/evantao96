@@ -1,8 +1,6 @@
 ## Hi, I am Evan Tao ##
 
-A software developer and educator dedicated to building innovative products from end-to-end. I have project expertise building web applications using Python, Javascript and Ruby on Rails. I graduated with a BS in computer science at UPenn.
-
-I hang my hat on being willing to put in the time and effort to produce quality work. Currently I am based in NYC. I teach Java programming fundamentals to aspiring computer science majors.
+A software developer dedicated to building innovative products from end-to-end. I have expertise building data pipelines and applications in Python, SQL, Javascript and Ruby on Rails. I graduated with a BS in computer science from UPenn.
 
 ## Get In Touch ##
 
