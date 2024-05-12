@@ -8,5 +8,4 @@ I hang my hat on being willing to put in the time and effort to produce quality 
 
 - You can reach out to me via email at evantao96@gmail.com 
 - Connect with me at [linkedin.com/in/evantao96](https://linkedin.com/in/evantao96/ "Named link title")
-- View my [resume](/resume.pdf/ "Named link title")
 
