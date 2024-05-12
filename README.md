@@ -1,6 +1,6 @@
 ## Hi, I am Evan Tao ##
 
-A software developer dedicated to building innovative products from end-to-end. I have expertise building data pipelines and applications in Python, SQL, Javascript and Ruby on Rails. I graduated with a BS in computer science from UPenn.
+I have expertise building data pipelines and applications in Python, SQL, Javascript and Ruby on Rails. I graduated with a BS in computer science from UPenn.
 
 ## Get In Touch ##
 
