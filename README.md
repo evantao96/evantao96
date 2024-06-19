@@ -1,6 +1,6 @@
 ## Hi, I am Evan Tao ##
 
-I have expertise building data pipelines and applications in Python, SQL, Javascript and Ruby on Rails. I graduated with a BS in computer science from UPenn.
+I have expertise in machine learning and computer science education.
 
 ## Get In Touch ##
 
