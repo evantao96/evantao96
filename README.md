@@ -1,6 +1,6 @@
 ## Hi, I am Evan Tao ##
 
-I am a technical support engineer at Pinecone, the first vector database machine learning. Previously, I was a lead computer science teacher at the New York City Department of Education. 
+I am a technical support engineer at Pinecone, the first vector database for machine learning. Previously, I was a lead computer science teacher at the New York City Department of Education. 
 
 ## Get In Touch ##
 
